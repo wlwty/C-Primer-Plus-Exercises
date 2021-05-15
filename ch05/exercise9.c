@@ -40,6 +40,8 @@ int main(void)
 	}
 
 	printf("bye\n");
+	
+	return 0;    //DO NOT forget this.
 }
 
 void Temperatures(double fahr)
